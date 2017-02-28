@@ -1,2 +1,2 @@
 #!/bin/sh
-zip template.zip ./love/* gulpfile.js package.json
+zip template.zip ./main/* gulpfile.js package.json
