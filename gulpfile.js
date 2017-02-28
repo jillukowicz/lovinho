@@ -12,7 +12,6 @@ gulp.task('package', function () {
     .pipe(gulp.dest('./dist'));
 });
 
-
 function appName(){
   return project.name;
 }
